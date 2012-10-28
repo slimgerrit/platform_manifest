@@ -13,6 +13,5 @@
            sync-j="4" />
 
   <project path="build" name="slimgerrit/android_build" remote="github" revision="jb" >
-    <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 </manifest>
