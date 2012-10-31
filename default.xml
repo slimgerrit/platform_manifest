@@ -13,7 +13,7 @@
            sync-j="4" />
 
   <project path="build" name="slimgerrit/android_build" remote="github" revision="jb" >
-  <project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" remote="github" revision="jb" />
-  <project path="frameworks/base" name="SlimRoms/frameworks_base" remote="github" revision="jb" />
+  <project path="packages/apps/Settings" name="slimgerrit/packages_apps_Settings" remote="github" revision="jb" />
+  <project path="frameworks/base" name="slimgerrit/frameworks_base" remote="github" revision="jb" />
   </project>
 </manifest>
