@@ -16,4 +16,5 @@
 </project>
   <project path="packages/apps/Settings" name="slimgerrit/packages_apps_Settings" remote="github" revision="jb" />
   <project path="frameworks/base" name="slimgerrit/frameworks_base" remote="github" revision="jb" />
+  <project path="device_samsung_maguro" name="slimgerrit/device_samsung_maguro" remote="github" revision="jb" />
 </manifest>
